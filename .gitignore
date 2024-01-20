@@ -3,3 +3,4 @@ fouille
 *.txt
 *.csv
 *.xlsx
+.DS_Store
