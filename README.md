@@ -4,7 +4,7 @@ Vous trouverez dans ce github les fichiers représentant les algorithmes utilsé
 
 - Arbres de Décision 
 - Forêts Aléatoires 
-- **Réseaux de Neurones Simples 
+- Réseaux de Neurones Simples 
 - Auto-encodeur
 - XGBoost 
 - Forêts Aléatoires Équilibrées
