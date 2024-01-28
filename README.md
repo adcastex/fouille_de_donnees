@@ -1,6 +1,19 @@
----
-title: "Détection de Fraude par Apprentissage Automatique"
----
+# "Détection de Fraude par Apprentissage Automatique"
+
+Vous trouverez dans ce github les fichiers représentant les algorithmes utilsés:
+
+- **Arbres de Décision ** 
+- **Forêts Aléatoires **
+- **Réseaux de Neurones Simples ** 
+- **Auto-encodeur ** 
+- **XGBoost **
+- **Forêts Aléatoires Équilibrées ** 
+- **Modèle Ensembliste **
+- **K-means **
+- **Régression Logistique **
+
+-  **La fonction de perte utilisé et la fonction de Gains **
+
 
 # Description du Projet
 
